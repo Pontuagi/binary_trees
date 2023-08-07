@@ -1,6 +1,7 @@
 ﻿BINARY TREES
 
 Learning Objectives
+
     • What is a binary tree
     • What is the difference between a binary tree and a Binary Search Tree
     • What is the possible gain in terms of time complexity compared to linked lists
@@ -10,6 +11,7 @@ Learning Objectives
 
 
 Files
+
     • 0-binary_tree_node.c  - a function that creates a binary tree node
     • 1-binary_tree_insert_left.c -  a function that inserts a node as the left-child of another node
     • 2-binary_tree_insert_right.c - a function that inserts a node as the right-child of another node
